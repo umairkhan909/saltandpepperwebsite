@@ -117,7 +117,7 @@ ul {
 }
 
 .brands-container {
-    max-width: 1200px;
+    max-width: auto;
     margin: 0 auto;
 }
 
@@ -142,7 +142,7 @@ ul {
 .brands-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 25px;
+    gap: 50px;
 }
 
 .brand-card {
