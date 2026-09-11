@@ -129,7 +129,9 @@ ul {
 }
 
 .brands-title span {
-    font-weight: 700;
+    font-weight: 500;
+    font-family: fantasy;
+    font-size: 41px;
 }
 
 .brands-subtitle {
